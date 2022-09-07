@@ -22,6 +22,8 @@ public class o1 {
 		
 		double p4 = 0.1452;
 		
+		//minste verdi
+		
 		int t1 = 164100;
 		
 		int t2 = 230950;
